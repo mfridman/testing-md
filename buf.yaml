@@ -1,0 +1,8 @@
+version: v1
+name: buf.build/mfridman/testing-md
+breaking:
+  use:
+    - FILE
+lint:
+  use:
+    - DEFAULT
